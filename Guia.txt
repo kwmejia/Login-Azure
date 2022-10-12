@@ -1,0 +1,14 @@
+1. Creación de el proyecto React 
+    -yarn create react-app my-app --template typescript
+    -npx create-react-app my-app --template typescript
+
+2.Creacion de app Azure.
+    -portal.azure.com
+
+3.Configuración Azure en la Aplicación.
+
+instalaciones:
+-@azure/msal-browser
+-@microsoft/microsoft-graph-client
+-@types/microsoft-graph
+-@azure/msal-react
